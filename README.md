@@ -2,9 +2,9 @@
 
 ## User Login Information
 
-**Username**: `codecademy`
+**Username**: `webbogdanx`
 
-**Password**: `django`
+**Password**: `qeszc1234`
 
 ## Get Started
 

@@ -265,24 +265,3 @@ Create a log in and log out page for our inventory application.
 All of the views that are mentioned above should require the user to be authenticated first. You'll have to create another template for your login page, and leverage the `LoginRequiredMixin` in all of the views above (except the login and logout views).
 
 To test out your authentication functionality, you can use the super-user you created when we used the Django admin UI earlier in the project. You can also use that UI to create more users!
-
-# Extra Credit
-- Be able to upload / render images alongside recipes or ingredients.
-- Be able to Deploy the app to PythonAnywhere 
-
-# Resources
-## Debugging Tips
-Feeling stuck? Try the following:
-*Google your question:* often times, someone has had the same question as you! Check out websites like StackOverflow and Quora to see how other folks have found solutions. 
-*Read the documentation:* make sure to carefully read through the documentation for any languages and libraries that you are using. Oftentimes they'll have examples of what you're looking for!
-*Rubber ducking:* try to explain a problem to a friend or co-worker. Oftentimes you'll figure out the solution as you're trying to explain it. And if not, getting another pair of eyes on your code can be helpful. 
-
-## Example Code
-Want to see an example of how someone else has completed this project? Click this [link](https://git.khayyam.me/codecademy-content/bwa-django-final-project/archive/main.zip) to download a zip file containing one example solution to this project. Remember: your project doesn't have to look anything like this! It should be unique to your vision.
-
-# Sharing
-Great work! Visit [our forums](https://discuss.codecademy.com/) to compare your project to our sample solution code. After you host your own solution on GitHub, be sure to share it with other learners and see how other learners have built their own projects!
-
-Your solution might look different from ours, and that’s okay! There are multiple ways to solve these projects, and you’ll learn more by seeing others’ code.
-
-As you continue to learn, make sure to keep adding projects to your portfolio (especially Portfolio Projects!).
